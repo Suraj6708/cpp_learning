@@ -3,6 +3,9 @@
 // Without virtual: the base function runs, even if the object is from a child class.
 // With virtual: the child's version runs, like you expect.
 
+// Without virtual keyword the method of reference type (pointer in c++) is called but with virtual referenced method is called (dynamic runtime)
+// Dynamic method dispatch : c++ ( virtual ), java has inbuilt 
+
 #include <bits/stdc++.h>
 using namespace std;
 
