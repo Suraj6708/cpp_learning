@@ -1,0 +1,7 @@
+A class defines what an object should look like,
+an object is created based on that class.
+
+Procedural programming is about writing functions that operate on data.
+Object-oriented programming (OOP) is about creating objects that contain both the data and the functions.
+
+Everything in C++ is associated with classes and objects, along with its attributes and methods
